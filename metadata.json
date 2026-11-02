@@ -1,0 +1,8 @@
+{
+  "name": "HOMED Medical - Respiratory Healthcare Technology",
+  "description": "Modern homepage concept for HOMED (Shenzhen Homed Medical Device Co., Ltd.), presenting advanced respiratory solutions, FDA/CE certified medical devices, and intelligent manufacturing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
